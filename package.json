@@ -11,6 +11,7 @@
     "start": "run-p webpack server",
     "dev": "run-p client server",
     "webpack": "webpack",
+    "build": "npm run webpack -- --mode production",
     "client": "webpack --watch",
     "server": "node server",
     "test": "jest --watch --noStackTrace",
