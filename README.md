@@ -19,3 +19,6 @@
 - Start menu w/login
 - Score
 - Leader board
+
+# ------  REPOS  ------ #
+https://gist.github.com/Kornil/92554cfeb6a0c4ea0930e09f6c02e1a7
